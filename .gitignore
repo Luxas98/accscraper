@@ -1,6 +1,8 @@
 *.pyc
 .idea
 env
+build
 data
 oplog.timestamp
 *.egg
+*.egg-info
